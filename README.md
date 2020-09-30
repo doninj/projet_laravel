@@ -19,6 +19,7 @@ C'est une boutique où l'on peut:
 
 ## Lancer le projet Laravel
 
+Créer une base de donnée nommé:"_**commerce**_"
 Etape 1: php artisan migrate
 Etape 2: php artisan db:seed
 Etape 3: php artisan serve
